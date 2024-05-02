@@ -1,0 +1,7 @@
+{
+  "name": "practica-paciente",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}

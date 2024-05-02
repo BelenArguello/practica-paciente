@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "paciente-c49b5": {
+      "hosting": {
+        "app": [
+          "paciente-c49b5"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "paciente-c49b5"
+  }
+}
